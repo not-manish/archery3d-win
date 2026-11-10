@@ -1,0 +1,11 @@
+9,,,,
+id,root_name,arm_name,arm_mat_name,decoration_name
+0,Player,arm_mod_01a,arm_mod_01a,arm_mod_01_01
+1,Player,arm_mod_01a,arm_mod_01a,arm_mod_01_02
+2,Player,arm_mod_01b,arm_mod_01b,arm_mod_01_03
+3,Player,arm_mod_01b,arm_mod_01c,arm_mod_01_04
+4,Player,arm_mod_01a,arm_mod_01a,arm_mod_01_05
+5,Player,arm_mod_01b,arm_mod_01d,arm_mod_01_06
+6,Player,arm_mod_01b,arm_mod_07,arm_mod_01_07
+7,Player,arm_mod_01a,arm_mod_08,arm_mod_01_08
+8,Player,arm_mod_01b,arm_mod_09,arm_mod_01_09

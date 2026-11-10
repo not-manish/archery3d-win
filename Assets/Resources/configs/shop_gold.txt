@@ -1,0 +1,8 @@
+6,,,,
+id,gold_num,gem,name,free
+0,2000,60,Fistful of Coins,0
+1,25000,600,Pile of Coins,25
+2,75000,1500,Stack of Coins,50
+3,175000,3000,Case of Coins,75
+4,700000,9000,Chests of Coins,133
+5,2000000,20000,Mountain of Coins,200

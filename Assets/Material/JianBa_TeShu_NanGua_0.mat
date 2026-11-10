@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: JianBa_TeShu_NanGua
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: fbb99ba67577ec64bb5051e94ec9e7ec, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BottomColor: 1.375714
+      _Gloss: 3.5714276
+      _Glossness: 0.053571433
+      _Metallic: 0.41071427
+      _RefPower: 0.21428572
+      _Roughness: 20
+      _Specular: 128
+    m_Colors:
+      _BottomColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      _Color: {r: 0.73134327, g: 0.73134327, b: 0.73134327, a: 1}
+      _LightPos: {r: -0.48, g: 0.79, b: -0.52, a: 0}
+      _SpecularColor: {r: 0.33088237, g: 0.33088237, b: 0.33088237, a: 1}
+  m_BuildTextureStacks: []

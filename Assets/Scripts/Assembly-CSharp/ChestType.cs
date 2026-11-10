@@ -1,0 +1,28 @@
+public enum ChestType
+{
+	ChestA1 = 1,
+	ChestA2 = 2,
+	ChestA3 = 3,
+	ChestA4 = 4,
+	ChestA5 = 5,
+	ChestB1_0 = 6,
+	ChestB2_0 = 7,
+	ChestB3_0 = 8,
+	ChestB4_0 = 9,
+	ChestB5_0 = 10,
+	ChestB1_1 = 11,
+	ChestB2_1 = 12,
+	ChestB3_1 = 13,
+	ChestB4_1 = 14,
+	ChestB5_1 = 15,
+	ChestB1_2 = 16,
+	ChestB2_3 = 17,
+	ChestB3_2 = 18,
+	ChestB4_2 = 19,
+	ChestB5_2 = 20,
+	ChestB1_3 = 21,
+	ChestB2_2 = 22,
+	ChestB3_3 = 23,
+	ChestB4_3 = 24,
+	ChestB5_3 = 25
+}

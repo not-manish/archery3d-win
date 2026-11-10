@@ -1,0 +1,15 @@
+13,,,,,
+id,model_name,mat_name,r_loc_pos_x,r_loc_pos_y,r_loc_pos_z
+0,arm_ring_mod_01,arm_ring_mod_01,-1.275,-0.85,0.15
+1,arm_ring_mod_01,arm_ring_mod_02,-1.275,-0.85,0.15
+2,arm_ring_mod_03a,arm_ring_mod_05,-1.275,-0.8,0.15
+3,arm_ring_mod_07,arm_ring_mod_07,-1.275,-0.8,0.15
+4,arm_ring_mod_05,arm_ring_mod_03,-1.275,-0.85,0.15
+5,arm_ring_mod_04,arm_ring_mod_08,-1.275,-0.8,0.15
+6,arm_ring_mod_03b,arm_ring_mod_06,-1.275,-0.8,0.15
+7,arm_ring_mod_05,arm_ring_mod_04,-1.275,-0.85,0.15
+8,arm_ring_mod_09,arm_ring_mod_09,-1.275,-0.85,0.15
+9,arm_ring_mod_10,arm_ring_mod_10,-1.275,-0.85,0.15
+10,arm_ring_mod_11,arm_ring_mod_11,-1.275,-0.8,0.15
+11,arm_ring_mod_12,arm_ring_mod_12,-1.275,-0.85,0.15
+12,arm_ring_mod_13,arm_ring_mod_13,-1.275,-0.85,0.15

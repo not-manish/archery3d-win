@@ -1,0 +1,24 @@
+public class ShopBuyHints
+{
+	public enum HintsType
+	{
+		SHOP_BUY_ERROR_TYPE_ERROR = 0,
+		SHOP_BUY_ERROR_ID_ERROR = 1,
+		SHOP_BUY_ERROR_GEM_NOT_ENOUGH = 2,
+		SHOP_BUY_ERROR_CARD_MAX_TIMES = 3,
+		SHOP_BUY_ERROR_MAX_TIMES_TABLE = 4,
+		SHOP_BUY_ERROR_INDEX_ERROR = 5,
+		SHOP_BUY_ERROR_google_verification_failed = 6,
+		SHOP_BUY_ERROR_google_consumed = 7,
+		SHOP_BUY_ERROR_FREE_CARD_LOCKED = 8,
+		SHOP_BUY_ERROR_FREE_CARD_TIME_NOT_ARRIVE = 9,
+		SHOP_BUY_ERROR_GOLD_NOT_ENOUGH = 11,
+		SHOP_BUY_ERROR_OTHER_REASON = 10,
+		SHOP_BUY_ERROR_SERVER_IS_UPGRADING = 20
+	}
+
+	public static string GetTips(int type)
+	{
+		return null;
+	}
+}

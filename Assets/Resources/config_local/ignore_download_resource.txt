@@ -1,0 +1,4 @@
+ClientRsInfoCfg,,,,,,,[sp]
+1,,,,,,,[sp]
+m_Count,m_Type,m_Name,m_Url,m_Md5,m_Size,m_DlPriority,[sp]
+1,0,LimitedTimeBuy.txt,http://caogang.cdn-doodlemobile.com/archery/rs/1.3.5.0_B/Cfg/LimitedTimeBuy.txt,06c00471ef072bfb08f5d04118162045,3905,0,[sp]

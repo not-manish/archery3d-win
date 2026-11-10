@@ -1,0 +1,7 @@
+5,,,,,
+level,level_describe,match,cup,rich,challenge
+1,Copper,0,0,0,0
+2,Silver,150,100,150,65
+3,Gold,360,800,360,150
+4,Platinum,800,2500,800,250
+5,Diamond,1500,5000,1500,355

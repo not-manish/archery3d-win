@@ -1,0 +1,23 @@
+21,,,,,,,
+emoji_id,emoji_text,emoji_reply,emoji_start,emoji_shoot,emoji_win,emoji_lose,emoji_final
+0,Emoji_Angry,0_1_3_4_6_7_9_14_17_19,0,0,1,0,0
+1,Emoji_Applause,1_8_9_15,0,1,1,0,1
+2,Emoji_Bye,2_4_7_9_16_19,0,1,1,0,0
+3,Emoji_EvilSmile,0_6_8_15_16_17,0,1,0,1,0
+4,Emoji_Happy,1_4_6_7_8_10_19,1,1,0,1,0
+5,Emoji_Hi,5_11,1,0,0,0,0
+6,Emoji_Overface,6_8_15_17_20,0,0,1,0,0
+7,Emoji_Sunglasses,0_1_2_13_18_19,1,1,0,1,0
+8,Emoji_Surprise,6_8_10_15_16_17_18,0,0,1,0,1
+9,GOOD GAME,1_2_9_16_19,0,1,1,0,1
+10,GOOD LUCK,1_6_7_10_14,1,1,0,1,1
+11,HELLO,5_11,1,0,0,0,0
+12,HIT THE BULL'S EYE,1_8_17_18_20,0,1,0,0,1
+13,NICE SHOT,9_14_16_18,0,0,1,0,0
+14,THANKS,4_14_16_19,0,0,0,0,0
+15,UNLUCKY,8_15_17_20,0,0,1,0,0
+16,WELL PLAYED,6_8_14_17_18,0,1,1,0,1
+17,OOPS,8_17_20,0,0,0,1,1
+18,WOW,1_6_8_16_18,0,1,1,1,1
+19,YOU'RE GOOD,1_2_7_9_14_19,0,1,1,0,1
+20,CLOSE!,1_6_8_15_16_19_20,0,0,0,1,0

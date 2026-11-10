@@ -1,0 +1,6 @@
+4,,,,,,,,,,,,,,,,
+chest_id,name,chest_kind,grade,gold,gem,sum_cards,blue_card_nums,blue_card_kinds,purple_card_nums,purple_card_kinds,orange_card_nums,orange_card_kinds,arrow_nums,arrow_kinds,,
+1,Basic Chest,1,1,21,0,4,0,0,4,1002,0,0,0,0,,7
+2,Basic Chest,1,1,26,0,2,2,2002,0,0,0,0,0,0,,8
+3,Basic Chest,1,1,29,0,2,2,2002,0,0,0,0,0,0,,9
+4,Basic Chest,1,1,36,0,3,2,3002,1,1002,0,0,0,0,,10

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: JianBa_TeShu_JiuPing
+  m_Shader: {fileID: 4800000, guid: 68d2167fc19dfe94b8dfe8daddac7d47, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _GlassMask:
+        m_Texture: {fileID: 2800000, guid: 8efdd8ae95c79104b82d0da29e6580ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6548b0171dd58b347aaa54784721b0e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _TransMap:
+        m_Texture: {fileID: 2800000, guid: fba46d49ca4046c4d9ef3130e6e2c060, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BuGuangFanWei: 0.5920882
+      _Glossiness: 0.17483445
+      _Intensity: 0.6964286
+      _SeCaiCeng: 93.08
+      _Shininess: 0.52776927
+    m_Colors:
+      _BottomColor: {r: 0.06653143, g: 0.2352941, b: 0, a: 1}
+      _BuGuangColor: {r: 1, g: 1, b: 1, a: 1}
+      _BuGuangPos: {r: 1, g: 0, b: 0.96, a: 0}
+      _Color: {r: 0.6691177, g: 0.6691177, b: 0.6691177, a: 1}
+      _ReflectColor: {r: 0.49264705, g: 0.49264705, b: 0.49264705, a: 0.5019608}
+      _SpecColor: {r: 1, g: 1, b: 1, a: 1}
+      _Specular_Color: {r: 0.8897059, g: 0.8897059, b: 0.8897059, a: 1}
+      _TopColor: {r: 0.023985833, g: 0.31617647, b: 0, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,8 @@
+6,,,,
+id,gem_num,dollar,name,free
+0,80,0.99,Fistful of Gems,0
+1,500,4.99,Pile of Gems,25
+2,1200,9.99,Stack of Gems,50
+3,2500,19.99,Case of Gems,56
+4,7500,49.99,Chests of Gems,87
+5,17000,99.99,Mountain of Gems,112

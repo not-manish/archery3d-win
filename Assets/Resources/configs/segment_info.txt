@@ -1,0 +1,15 @@
+13,,,,
+level_id,name,card_add_percent,promotion_count,relegation_count
+1,Beginner,0,30,0
+2,Amateur I,10,25,10
+3,Amateur II,20,25,15
+4,Amateur III,30,25,20
+5,Professional I,40,25,20
+6,Professional II,50,20,20
+7,Professional III,60,15,20
+8,Expert I,70,15,20
+9,Expert II,80,15,20
+10,Expert III,90,0,20
+11,Master I,100,0,100
+12,Master II,120,0,100
+13,Master III,140,0,100

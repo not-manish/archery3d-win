@@ -1,0 +1,21 @@
+19,,
+id,type,text
+101,1,Arrow Speed and Aiming Speed will be useful in rush mode.
+102,1,When the target is out of range&& the arrows fired will shift in the direction of wind.
+103,1,Pay attention to the wind's speed and direction&& it can affect the path of the arrow.
+104,1,Feeling difficult to aim? Try a more advanced sight.
+105,1,View the property introduction in the equipment interface to facilitate understanding of the role of each attribute.
+106,1,High quality arrows can effectively reduce the impact of wind.
+201,2,Win in 1V1 mode to win the treasure chest of the same grade as the level.
+202,2,Epic cards are very precious&& you can find them in high quality chests.
+203,2,More powerful equipment cards can be obtained from high-grade chests.
+204,2,Don't forget to change and upgrade your equipment in time.
+301,3,In bingo mode&& you can only see your own card with numbers on && but not the other's card.
+302,3,In bingo mode&& the player who shot the last arrow wins if both finish the last line at the same time.
+303,3,In the challenge&& players who complete all 30 levels can get game rewards.
+304,3,In the arena&& the higher the number of consecutive victories&& the richer the rewards won.
+305,3,The challenge is open once a week&& and you can get a lot of rewards for completing the match!
+401,4,3 new equipment cards appear everyday in Daily Deals.
+402,4,When the number of cups reaches the maximum number of trophies in the level&& no new trophies will be awarded.
+403,4,Connect your account to your facebook to prevent data loss.
+404,4,Win more coins in the game to boost your weekly league ranking.

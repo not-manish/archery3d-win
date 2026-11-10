@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BGShow.unity
+    guid: 59a66ad76c759f844a0ea109f6369bf8
+  - enabled: 1
+    path: Assets/Scenes/FirstLoading.unity
+    guid: 8fb5ef0756273284a95ff820b77f5999
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 5d4423457855cd64b8afc2d3e7fd3fa9
+  - enabled: 1
+    path: Assets/Scenes/SceneTransition.unity
+    guid: cd34d13e1cffbad44bb184301eeec105
+  - enabled: 1
+    path: Assets/Scenes/ChangJing_01_LvDi.unity
+    guid: cddd465718869d14787e42e03f2d8ae5
+  - enabled: 1
+    path: Assets/Scenes/changJing_02_youLeChang.unity
+    guid: 8020eccb80f72fd42b83c04005e2c963
+  - enabled: 1
+    path: Assets/Scenes/changJing_03_shaTan.unity
+    guid: 8e21374106399484d9fe7cf3319f7179
+  - enabled: 1
+    path: Assets/Scenes/changJing_04_senLin.unity
+    guid: ef6c531ba82161b4db149f204e08925d
+  - enabled: 1
+    path: Assets/Scenes/changJing_05_aiJi.unity
+    guid: 99d229e199886024ab008abfaae6a9e7
+  - enabled: 1
+    path: Assets/Scenes/changJing_06_beiJi.unity
+    guid: 7910701f7a98de7438f3ed70fbeda9bb
+  m_configObjects: {}

@@ -1,0 +1,29 @@
+27,,,,,,,,,
+id,quest_type,sub_type,quest_title,describe,count,score,reward_type,reward_number,reward_count
+10101,1,101,Let's play,Join in the Classic Mode 10 times.,10,20,2,-1,10
+10201,1,102,Let's play,Join in the Rush Mode 10 times.,10,20,2,-1,10
+10301,1,103,Let's play,Join in the Bingo Mode 10 times.,10,20,2,-1,10
+10401,1,104,Let's play,Finish Arena 1 times.,1,30,6,70103,1
+10501,1,105,Let's play,Finish Challenge 1 times.,1,30,6,70104,1
+10601,1,106,Let's play,Reach the final 3 times in 1 on 1 games.,3,20,6,70102,1
+20101,2,201,Ever-victorious,Win the Classic Mode 5 times.,5,20,6,70102,1
+20201,2,202,Ever-victorious,Win the Rush Mode 5 times.,5,20,6,70101,1
+20301,2,203,Ever-victorious,Win the Bingo Mode 5 times.,5,20,6,70101,1
+30101,3,301,Sharpshooter,Hit the bull 's-eye 30 times.,30,20,6,70102,1
+30201,3,302,Sharpshooter,Finish bingo lines 10 times.,10,20,6,70102,1
+30301,3,303,Sharpshooter,Hit the bull 's-eye 20 times in Classic mode.,20,20,6,70105,1
+30401,3,304,Sharpshooter,Hit the bull 's-eye 20 times in Rush mode.,20,20,6,70105,1
+40101,4,401,Perfect victory,Finish Count-up mode with more than 40 scores 3 times.,3,20,2,-1,10
+40201,4,402,Perfect victory,Finish Rush mode with more than 60 scores 3 times.,3,20,2,-1,10
+40301,4,403,Perfect victory,Win Best-of-3 Mode with 2 sets ahead of opponents 3 times,3,20,2,-1,10
+50101,5,501,Have fun,Get 50 trophies.,50,20,6,70101,1
+50201,5,502,Have fun,Open chests 10 times.,10,20,6,70101,1
+50301,5,503,Have fun,Shoot 60 times in total.,60,20,6,70105,1
+50401,5,504,Have fun,Watch video ads 3 times.,3,10,7,1,1
+60101,6,601,Rich man,Get 5000 Coins.,5000,10,7,1,1
+60201,6,602,Rich man,Get 30 Gems.,30,20,6,70105,1
+60301,6,603,Rich man,Get 150 Cards.,150,20,2,-1,10
+60302,6,603,Rich man,Get 300 Cards.,300,40,6,70103,1
+60401,6,604,Rich man,Spend 5000 Coins.,5000,10,7,1,1
+60501,6,605,Rich man,Spend 20 Gems.,20,10,7,1,1
+60502,6,605,Rich man,Spend 100 Gems.,100,50,6,70104,1

@@ -1,0 +1,174 @@
+163,,,,,,,,,,
+number,big_type,small_type,level,achievement_prepose_no,achievement_title,describe,count,point,reward_type,reward_number
+10101,1,101,1,0,Classic Player,Join in the Classic Mode 5 times.,5,5,1,50
+10102,1,101,2,10101,Classic Player,Join in the Classic Mode 20 times.,20,10,2,2
+10103,1,101,3,10102,Classic Player,Join in the Classic Mode 100 times.,100,20,2,3
+10104,1,101,4,10103,Classic Player,Join in the Classic Mode 400 times.,400,40,2,4
+10105,1,101,5,10104,Classic Player,Join in the Classic Mode 1000 times.,1000,80,2,5
+10201,1,102,1,0,Rush Player,Join in the Rush Mode 5 times.,5,5,1,50
+10202,1,102,2,10201,Rush Player,Join in the Rush Mode 20 times.,20,10,2,2
+10203,1,102,3,10202,Rush Player,Join in the Rush Mode 100 times.,100,20,2,3
+10204,1,102,4,10203,Rush Player,Join in the Rush Mode 400 times.,400,40,2,4
+10205,1,102,5,10204,Rush Player,Join in the Rush Mode 1000 times.,1000,80,2,5
+10301,1,103,1,0,Bingo Player,Join in the Bingo Mode 5 times.,5,5,1,50
+10302,1,103,2,10301,Bingo Player,Join in the Bingo Mode 20 times.,20,10,2,2
+10303,1,103,3,10302,Bingo Player,Join in the Bingo Mode 100 times.,100,20,2,3
+10304,1,103,4,10303,Bingo Player,Join in the Bingo Mode 400 times.,400,40,2,4
+10305,1,103,5,10304,Bingo Player,Join in the Bingo Mode 1000 times.,1000,80,2,5
+10401,1,104,1,0,Classic Winner,Win the Classic Mode 5 times.,5,5,1,50
+10402,1,104,2,10401,Classic Winner,Win the Classic Mode 20 times.,20,10,2,2
+10403,1,104,3,10402,Classic Winner,Win the Classic Mode 100 times.,100,20,2,3
+10404,1,104,4,10403,Classic Winner,Win the Classic Mode 400 times.,400,40,2,4
+10405,1,104,5,10404,Classic Winner,Win the Classic Mode 1000 times.,1000,80,2,5
+10501,1,105,1,0,Rush Winner,Win the Rush Mode 5 times.,5,5,1,50
+10502,1,105,2,10501,Rush Winner,Win the Rush Mode 20 times.,20,10,2,2
+10503,1,105,3,10502,Rush Winner,Win the Rush Mode 100 times.,100,20,2,3
+10504,1,105,4,10503,Rush Winner,Win the Rush Mode 400 times.,400,40,2,4
+10505,1,105,5,10504,Rush Winner,Win the Rush Mode 1000 times.,1000,80,2,5
+10601,1,106,1,0,Bingo Winner,Win the Bingo Mode 5 times.,5,5,1,50
+10602,1,106,2,10601,Bingo Winner,Win the Bingo Mode 20 times.,20,10,2,2
+10603,1,106,3,10602,Bingo Winner,Win the Bingo Mode 100 times.,100,20,2,3
+10604,1,106,4,10603,Bingo Winner,Win the Bingo Mode 400 times.,400,40,2,4
+10605,1,106,5,10604,Bingo Winner,Win the Bingo Mode 1000 times.,1000,80,2,5
+10701,1,107,1,0,Hawkeye,Hit the bull 's-eye 10 times.,10,5,1,50
+10702,1,107,2,10701,Hawkeye,Hit the bull 's-eye 50 times.,50,10,2,2
+10703,1,107,3,10702,Hawkeye,Hit the bull 's-eye 250 times.,250,20,2,3
+10704,1,107,4,10703,Hawkeye,Hit the bull 's-eye 1000 times.,1000,40,2,4
+10705,1,107,5,10704,Hawkeye,Hit the bull 's-eye 2000 times.,2000,80,2,5
+10801,1,108,1,0,Bingo Man,Finish bingo lines 5 times.,5,5,1,50
+10802,1,108,2,10801,Bingo Man,Finish bingo lines 20 times.,20,10,2,2
+10803,1,108,3,10802,Bingo Man,Finish bingo lines 100 times.,100,20,2,3
+10804,1,108,4,10803,Bingo Man,Finish bingo lines 400 times.,400,40,2,4
+10805,1,108,5,10804,Bingo Man,Finish bingo lines 1000 times.,1000,80,2,5
+10901,1,109,1,0,Arena Player,Finish Arena 1 times.,1,5,1,50
+10902,1,109,2,10901,Arena Player,Finish Arena 5 times.,5,10,2,2
+10903,1,109,3,10902,Arena Player,Finish Arena 20 times.,20,20,2,3
+10904,1,109,4,10903,Arena Player,Finish Arena 100 times.,100,40,2,4
+10905,1,109,5,10904,Arena Player,Finish Arena 200 times.,200,80,2,5
+11001,1,110,1,0,Arena Winner,Win 12 games in a Arena 1 times.,1,5,1,50
+11002,1,110,2,11001,Arena Winner,Win 12 games in a Arena 3 times.,3,10,2,2
+11003,1,110,3,11002,Arena Winner,Win 12 games in a Arena 10 times.,10,20,2,3
+11004,1,110,4,11003,Arena Winner,Win 12 games in a Arena 20 times.,20,40,2,4
+11005,1,110,5,11004,Arena Winner,Win 12 games in a Arena 50 times.,50,80,2,5
+11101,1,111,1,0,Challenge Player,Finish Challenge 1 times.,1,5,1,50
+11102,1,111,2,11101,Challenge Player,Finish Challenge 3 times.,3,10,2,2
+11103,1,111,3,11102,Challenge Player,Finish Challenge 10 times.,10,20,2,3
+11104,1,111,4,11103,Challenge Player,Finish Challenge 20 times.,20,40,2,4
+11105,1,111,5,11104,Challenge Player,Finish Challenge 50 times.,50,80,2,5
+11201,1,112,1,0,Equal Rival,Enter the Shoot-off 1 times in 1 on 1 games.,1,5,1,50
+11202,1,112,2,11201,Equal Rival,Enter the Shoot-off 5 times in 1 on 1 games.,5,10,2,2
+11203,1,112,3,11202,Equal Rival,Enter the Shoot-off 20 times in 1 on 1 games.,20,20,2,3
+11204,1,112,4,11203,Equal Rival,Enter the Shoot-off 100 times in 1 on 1 games.,100,40,2,4
+11205,1,112,5,11204,Equal Rival,Enter the Shoot-off 400 times in 1 on 1 games.,400,80,2,5
+20101,2,201,1,0,Trophies Hunter,Get 10 trophies.,10,5,1,50
+20102,2,201,2,20101,Trophies Hunter,Get 40 trophies.,40,10,2,2
+20103,2,201,3,20102,Trophies Hunter,Get 100 trophies.,100,20,2,3
+20104,2,201,4,20103,Trophies Hunter,Get 400 trophies.,400,40,2,4
+20105,2,201,5,20104,Trophies Hunter,Get 1000 trophies.,1000,80,2,5
+20106,2,201,6,20105,Trophies Hunter,Get 4000 trophies.,4000,160,2,6
+20107,2,201,7,20106,Trophies Hunter,Get 10000 trophies.,10000,320,2,8
+21101,2,211,1,0,Perfect Man,Get All trophies on Grade 1 in Classic Mode.,20,5,1,50
+21201,2,212,1,0,Perfect Man,Get All trophies on Grade 2 in Classic Mode.,50,10,2,2
+21301,2,213,1,0,Perfect Man,Get All trophies on Grade 3 in Classic Mode.,100,20,2,3
+21401,2,214,1,0,Perfect Man,Get All trophies on Grade 4 in Classic Mode.,200,40,2,4
+21501,2,215,1,0,Perfect Man,Get All trophies on Grade 5 in Classic Mode.,400,70,2,5
+21601,2,216,1,0,Perfect Man,Get All trophies on Grade 6 in Classic Mode.,500,100,2,6
+21701,2,217,1,0,Perfect Man,Get All trophies on Grade 7 in Classic Mode.,600,140,2,8
+21801,2,218,1,0,Perfect Man,Get All trophies on Grade 8 in Classic Mode.,700,180,2,10
+21901,2,219,1,0,Perfect Man,Get All trophies on Grade 9 in Classic Mode.,800,230,2,10
+23101,2,231,1,0,Perfect Man,Get All trophies on Grade 1 in Rush Mode.,20,5,1,50
+23201,2,232,1,0,Perfect Man,Get All trophies on Grade 2 in Rush Mode.,50,10,2,2
+23301,2,233,1,0,Perfect Man,Get All trophies on Grade 3 in Rush Mode.,100,20,2,3
+23401,2,234,1,0,Perfect Man,Get All trophies on Grade 4 in Rush Mode.,200,40,2,4
+23501,2,235,1,0,Perfect Man,Get All trophies on Grade 5 in Rush Mode.,400,70,2,5
+23601,2,236,1,0,Perfect Man,Get All trophies on Grade 6 in Rush Mode.,500,100,2,6
+23701,2,237,1,0,Perfect Man,Get All trophies on Grade 7 in Rush Mode.,600,140,2,8
+23801,2,238,1,0,Perfect Man,Get All trophies on Grade 8 in Rush Mode.,700,180,2,10
+23901,2,239,1,0,Perfect Man,Get All trophies on Grade 9 in Rush Mode.,800,230,2,10
+25101,2,251,1,0,Perfect Man,Get All trophies on Grade 1 in Bingo Mode.,20,5,1,50
+25201,2,252,1,0,Perfect Man,Get All trophies on Grade 2 in Bingo Mode.,50,10,2,2
+25301,2,253,1,0,Perfect Man,Get All trophies on Grade 3 in Bingo Mode.,100,20,2,3
+25401,2,254,1,0,Perfect Man,Get All trophies on Grade 4 in Bingo Mode.,200,40,2,4
+25501,2,255,1,0,Perfect Man,Get All trophies on Grade 5 in Bingo Mode.,400,70,2,5
+25601,2,256,1,0,Perfect Man,Get All trophies on Grade 6 in Bingo Mode.,500,100,2,6
+25701,2,257,1,0,Perfect Man,Get All trophies on Grade 7 in Bingo Mode.,600,140,2,8
+25801,2,258,1,0,Perfect Man,Get All trophies on Grade 8 in Bingo Mode.,700,180,2,10
+25901,2,259,1,0,Perfect Man,Get All trophies on Grade 9 in Bingo Mode.,800,230,2,10
+30101,3,301,1,0,Chests Hunter,Open chests 5 times.,5,5,1,50
+30102,3,301,2,30101,Chests Hunter,Open chests 50 times.,50,10,2,2
+30103,3,301,3,30102,Chests Hunter,Open chests 400 times.,400,20,2,3
+30104,3,301,4,30103,Chests Hunter,Open chests 1000 times.,1000,40,2,4
+30105,3,301,5,30104,Chests Hunter,Open chests 2000 times.,2000,80,2,5
+30201,3,302,1,0,Midfield Rest,Watch video ads 1 times.,1,5,1,50
+30202,3,302,2,30201,Midfield Rest,Watch video ads 10 times.,10,10,2,2
+30203,3,302,3,30202,Midfield Rest,Watch video ads 30 times.,30,20,2,3
+30204,3,302,4,30203,Midfield Rest,Watch video ads 100 times.,100,40,2,4
+30205,3,302,5,30204,Midfield Rest,Watch video ads 500 times.,500,80,2,5
+30301,3,303,1,0,Coin Boy,Get 1000 Coins.,1000,5,1,50
+30302,3,303,2,30301,Coin Boy,Get 10000 Coins.,10000,10,2,2
+30303,3,303,3,30302,Coin Boy,Get 100000 Coins.,100000,20,2,3
+30304,3,303,4,30303,Coin Boy,Get 1000000 Coins.,1000000,40,2,4
+30305,3,303,5,30304,Coin Boy,Get 10000000 Coins.,10000000,80,2,5
+30401,3,304,1,0,My Precious,Get 20 Gems.,20,5,1,50
+30402,3,304,2,30401,My Precious,Get 100 Gems.,100,10,2,2
+30403,3,304,3,30402,My Precious,Get 500 Gems.,500,20,2,3
+30404,3,304,4,30403,My Precious,Get 1000 Gems.,1000,40,2,4
+30405,3,304,5,30404,My Precious,Get 5000 Gems.,5000,80,2,5
+30501,3,305,1,0,Card Master,Get 10 Cards.,10,5,1,50
+30502,3,305,2,30501,Card Master,Get 100 Cards.,100,10,2,2
+30503,3,305,3,30502,Card Master,Get 500 Cards.,500,20,2,3
+30504,3,305,4,30503,Card Master,Get 2500 Cards.,2500,40,2,4
+30505,3,305,5,30504,Card Master,Get 12500 Cards.,12500,80,2,5
+30601,3,306,1,0,I Have Money,Spend 1000 Coins.,1000,5,1,50
+30602,3,306,2,30601,I Have Money,Spend 10000 Coins.,10000,10,2,2
+30603,3,306,3,30602,I Have Money,Spend 100000 Coins.,100000,20,2,3
+30604,3,306,4,30603,I Have Money,Spend 1000000 Coins.,1000000,40,2,4
+30605,3,306,5,30604,I Have Money,Spend 10000000 Coins.,10000000,80,2,5
+30701,3,307,1,0,Jeweler,Spend 50 Gems.,50,5,1,50
+30702,3,307,2,30701,Jeweler,Spend 500 Gems.,500,10,2,2
+30703,3,307,3,30702,Jeweler,Spend 5000 Gems.,5000,20,2,3
+30704,3,307,4,30703,Jeweler,Spend 50000 Gems.,50000,40,2,4
+30705,3,307,5,30704,Jeweler,Spend 500000 Gems.,500000,80,2,5
+30801,3,308,1,0,Too Much Heart,Buy 5 Heart in single mode.,5,5,1,50
+30802,3,308,2,30801,Too Much Heart,Buy 20 Heart in single mode.,20,10,2,2
+30803,3,308,3,30802,Too Much Heart,Buy 100 Heart in single mode.,100,20,2,3
+30804,3,308,4,30803,Too Much Heart,Buy 200 Heart in single mode.,200,40,2,4
+30805,3,308,5,30804,Too Much Heart,Buy 500 Heart in single mode.,500,80,2,5
+30901,3,309,1,0,Challenger,Retry stages in Challenge 1 times.,1,5,1,50
+30902,3,309,2,30901,Challenger,Retry stages in Challenge 10 times.,10,10,2,2
+30903,3,309,3,30902,Challenger,Retry stages in Challenge 50 times.,50,20,2,3
+30904,3,309,4,30903,Challenger,Retry stages in Challenge 100 times.,100,40,2,4
+30905,3,309,5,30904,Challenger,Retry stages in Challenge 400 times.,400,80,2,5
+31001,3,310,1,0,I Need Cards,Buy 5 Cards in total.,5,5,1,50
+31002,3,310,2,31001,I Need Cards,Buy 20 Cards in total.,20,10,2,2
+31003,3,310,3,31002,I Need Cards,Buy 100 Cards in total.,100,20,2,3
+31004,3,310,4,31003,I Need Cards,Buy 400 Cards in total.,400,40,2,4
+31005,3,310,5,31004,I Need Cards,Buy 1000 Cards in total.,1000,80,2,5
+31101,3,311,1,0,I Need Chests,Buy 5 Chests in total.,5,5,1,50
+31102,3,311,2,31101,I Need Chests,Buy 20 Chests in total.,20,10,2,2
+31103,3,311,3,31102,I Need Chests,Buy 100 Chests in total.,100,20,2,3
+31104,3,311,4,31103,I Need Chests,Buy 400 Chests in total.,400,40,2,4
+31105,3,311,5,31104,I Need Chests,Buy 1000 Chests in total.,1000,80,2,5
+31201,3,312,1,0,I Need Arrows,Buy 50 Arrows in total.,50,5,1,50
+31202,3,312,2,31201,I Need Arrows,Buy 250 Arrows in total.,250,10,2,2
+31203,3,312,3,31202,I Need Arrows,Buy 1000 Arrows in total.,1000,20,2,3
+31204,3,312,4,31203,I Need Arrows,Buy 2500 Arrows in total.,2500,40,2,4
+31205,3,312,5,31204,I Need Arrows,Buy 10000 Arrows in total.,10000,80,2,5
+40101,4,401,1,0,Archery Master,Shoot 50 times in total.,50,5,1,50
+40102,4,401,2,40101,Archery Master,Shoot 500 times in total.,500,10,2,2
+40103,4,401,3,40102,Archery Master,Shoot 5000 times in total.,5000,20,2,3
+40104,4,401,4,40103,Archery Master,Shoot 50000 times in total.,50000,40,2,4
+40105,4,401,5,40104,Archery Master,Shoot 500000 times in total.,500000,80,2,5
+40201,4,402,1,0,Narrow Victory,Win the game by 1 points in Rush mode.,1,50,2,5
+40301,4,403,1,0,Perfect Victory,Get 50 points in a Count-up game.,1,50,2,5
+40401,4,404,1,0,Medal Harvester,Get 12 wins and 0 losses in a Arena.,1,50,2,5
+40501,4,405,1,0,I Am The King,Get 25 perfect in a Challenge.,1,50,2,5
+22001,2,220,1,0,Perfect Man,Get All trophies on Grade 10 in Classic Mode.,900,290,2,10
+22101,2,221,1,0,Perfect Man,Get All trophies on Grade 11 in Classic Mode.,1000,360,2,10
+22201,2,222,1,0,Perfect Man,Get All trophies on Grade 12 in Classic Mode.,1100,430,2,10
+24001,2,240,1,0,Perfect Man,Get All trophies on Grade 10 in Rush Mode.,900,290,2,10
+24101,2,241,1,0,Perfect Man,Get All trophies on Grade 11 in Rush Mode.,1000,360,2,10
+24201,2,242,1,0,Perfect Man,Get All trophies on Grade 12 in Rush Mode.,1100,430,2,10
+26001,2,260,1,0,Perfect Man,Get All trophies on Grade 10 in Bingo Mode.,900,290,2,10
+26101,2,261,1,0,Perfect Man,Get All trophies on Grade 11 in Bingo Mode.,1000,360,2,10
+26201,2,262,1,0,Perfect Man,Get All trophies on Grade 12 in Bingo Mode.,1100,430,2,10

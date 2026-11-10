@@ -1,0 +1,11 @@
+9,,,,,,,,,,,,,,,,,,,
+ID,type,name,quality,resist_wind,arrow_speed_percent,accuracy_percent,stamina_percent,stability_percent,aiming_speed_percent,model_index,can_buy_int,buy_num_1,buy_price_1,buy_num_2,buy_price_2,buy_num_3,buy_price_3,weight,always_show
+0,5001,Training Arrow,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1000,1
+1,5002,Wind Listener,1,15,0,0,0,0,0,1,1,50,25,250,125,1000,500,320,1
+2,5003,Devil Hunter,2,30,10,0,0,0,0,2,1,50,110,250,550,1000,2200,160,1
+3,5004,Armor Piercing,3,30,0,10,0,5,0,3,1,50,250,250,1250,1000,5000,80,1
+4,5005,Corkscrew,3,45,0,0,10,10,0,4,1,50,360,250,1800,1000,7200,40,1
+5,5006,Poison,3,60,15,0,0,0,10,5,1,50,450,250,2250,1000,9000,20,1
+6,5007,Lightning,3,75,20,15,0,0,0,6,1,50,600,250,3000,1000,12000,10,1
+7,5008,Turkey,3,45,0,20,0,20,0,7,0,50,600,250,3000,1000,12000,0,0
+8,5009,Christmas Arrow,3,60,0,10,10,0,0,8,0,50,600,250,3000,1000,12000,0,0

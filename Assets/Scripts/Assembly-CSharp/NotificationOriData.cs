@@ -1,0 +1,42 @@
+public class NotificationOriData
+{
+	public int week;
+
+	public int day1;
+
+	public int day2;
+
+	public int day3;
+
+	public int day4;
+
+	public int day5;
+
+	public int day6;
+
+	public int day7;
+
+	public int day8;
+
+	public int day9;
+
+	public int day10;
+
+	public int day11;
+
+	public int day12;
+
+	public int day13;
+
+	public int day14;
+
+	public int day15;
+
+	public int day16;
+
+	public int day17;
+
+	public int day18;
+
+	public int day19;
+}

@@ -1,0 +1,7 @@
+5,,,,
+chest_kind,speedup_time,consume_ad_value,total_ad_value,ad_value_time
+1,30,0,10,2
+2,36,2,10,2
+3,40,4,10,2
+4,60,6,10,2
+5,60,6,10,2
